@@ -65,6 +65,10 @@ img {
     background-color: lightblue;
     border-radius: 10px;
     text-align: center;
+    margin-top: 5%;
+}
+.fpageContent,.spageContent,.tpageContent {
+    padding: 4%;
 }
 .tpageHeader {margin-bottom: 2%;}
 
